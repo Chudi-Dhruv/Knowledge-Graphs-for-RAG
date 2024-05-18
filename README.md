@@ -5,6 +5,6 @@ Knowledge Graphs for RAG
  Link for the course: https://learn.deeplearning.ai/courses/knowledge-graphs-rag
 
 Credit:
-  DeepLearning.AI
-  Andreas Colliger
+  DeepLearning.AI,
+  Andreas Colliger,
   Andrew N G
